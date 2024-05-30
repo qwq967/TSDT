@@ -1,1 +1,1 @@
-﻿Touching django==5.0.3
+django==2.1.7
